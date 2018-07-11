@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="users-engine:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="users-engine.war">
+      <element id="artifact" artifact-name="users-engine:war exploded" />
+    </root>
+  </artifact>
+</component>

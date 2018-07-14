@@ -12,10 +12,10 @@
     <span style="color: red">${errorMessage}</span><br/>
 </#if>
 <h1>
-    <strong> ID użytkownika:</strong> ${user.id}
-    <strong> Imię:</strong> ${user.name}
-    <strong> Login: </strong>${user.login}
-    <strong> Wiek: </strong>${user.age}
+    <strong> ID użytkownika:</strong> ${user.id}<br/>
+    <strong> Imię:</strong> ${user.name}<br/>
+    <strong> Login: </strong>${user.login}<br/>
+    <strong> Wiek: </strong>${user.age}<br/>
     <#--<strong> Płeć: </strong>${gender}-->
     <#--<strong> Puls: </strong>${pulse}-->
 

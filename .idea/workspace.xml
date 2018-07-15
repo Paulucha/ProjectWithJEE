@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0494fda2-99fa-4d33-b8bb-288f49f75b20" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/FindUserByIdServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/FindUserByIdServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/domain/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fm-templates/users-list.ftlh" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fm-templates/users-list.ftlh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/isa/usersengine/com/isa/usersengine/servlets/AddUserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/isa/usersengine/com/isa/usersengine/servlets/AddUserServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/isa/usersengine/com/isa/usersengine/servlets/FindUserByIdServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/isa/usersengine/com/isa/usersengine/servlets/FindUserByIdServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/isa/usersengine/com/isa/usersengine/servlets/WelcomeUserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/isa/usersengine/com/isa/usersengine/servlets/WelcomeUserServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/isa/usersengine/dao/UsersRepositoryDaoBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/isa/usersengine/dao/UsersRepositoryDaoBean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/isa/usersengine/domain/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/isa/usersengine/domain/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/isa/usersengine/repository/UsersRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/isa/usersengine/repository/UsersRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/users-engine.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/com/isa/usersengine/servlets/AddUserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/com/isa/usersengine/servlets/AddUserServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/com/isa/usersengine/servlets/FindUserByIdServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/com/isa/usersengine/servlets/FindUserByIdServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/com/isa/usersengine/servlets/WelcomeUserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/com/isa/usersengine/servlets/WelcomeUserServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/dao/UsersRepositoryDaoBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/dao/UsersRepositoryDaoBean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/domain/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/domain/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/repository/UsersRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/repository/UsersRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/fm-templates/find-user-by-id.ftlh" beforeDir="false" afterPath="$PROJECT_DIR$/target/users-engine/WEB-INF/fm-templates/find-user-by-id.ftlh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/fm-templates/users-list.ftlh" beforeDir="false" afterPath="$PROJECT_DIR$/target/users-engine/WEB-INF/fm-templates/users-list.ftlh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users-engine.iml" beforeDir="false" afterPath="$PROJECT_DIR$/users-engine.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,7 +60,7 @@
       <file leaf-file-name="WelcomeUserServlet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/WelcomeUserServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
+            <state relative-caret-position="391">
               <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
             </state>
           </provider>
@@ -104,7 +78,7 @@
       <file leaf-file-name="users-list.ftlh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/fm-templates/users-list.ftlh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
+            <state relative-caret-position="391">
               <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
@@ -115,18 +89,24 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="22" selection-start-column="22" selection-end-column="22" />
-              <folding>
-                <element signature="e#15#21#0#HTML" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1224">
+            <state relative-caret-position="138">
               <caret line="72" selection-start-line="72" selection-end-line="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddUserServlet.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/AddUserServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="46" column="31" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -237,10 +217,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="225" />
+    <option name="width" value="1141" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -356,9 +335,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -468,26 +447,28 @@
       <workItem from="1531590119847" duration="1047000" />
       <workItem from="1531594208928" duration="1127000" />
       <workItem from="1531595590319" duration="1114000" />
+      <workItem from="1531596838306" duration="83000" />
+      <workItem from="1531644667042" duration="648000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40590000" />
+    <option name="totallyTimeSpent" value="41321000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="225" y="0" width="1141" height="728" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.23827533" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.041628122" />
       <window_info anchor="right" id="CDI" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="JSF" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -498,18 +479,18 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2092257" />
-      <window_info anchor="bottom" x="1444" y="380" width="1819" height="315" id="Terminal" order="7" weight="0.3294893" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.65562916" visible="true" weight="0.20347957" />
+      <window_info anchor="bottom" x="1444" y="380" width="1819" height="315" id="Terminal" order="7" visible="true" weight="0.33840948" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.65562916" visible="true" weight="0.024051804" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" sideWeight="0.3398693" side_tool="true" weight="0.17757009" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="7" visible="true" weight="0.32879582" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
@@ -802,13 +783,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/AddUserServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593">
-          <caret line="46" column="31" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/freemarker/FreemarkerConf.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -832,7 +806,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/WelcomeUserServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
+        <state relative-caret-position="391">
           <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
         </state>
       </provider>
@@ -892,7 +866,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/fm-templates/users-list.ftlh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
+        <state relative-caret-position="391">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
@@ -901,16 +875,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="22" selection-start-column="22" selection-end-column="22" />
-          <folding>
-            <element signature="e#15#21#0#HTML" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
+        <state relative-caret-position="138">
           <caret line="72" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/AddUserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="46" column="31" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
         </state>
       </provider>
     </entry>

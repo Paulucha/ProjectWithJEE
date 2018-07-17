@@ -14,24 +14,26 @@
 <#list users>
 <ul>
         <#items as user>
-            <#if user.age < 21 >
-                <#assign class="blue">
-            <#elseif user.age gt 20 && user.age < 41 >
-                <#assign class="green">
-            <#else>
-                <#assign class="red">
-            </#if>
+  <#if user.age < 21 >
+      <#assign class="blue">
+  <#elseif user.age gt 20 && user.age < 41 >
+      <#assign class="green">
+  <#else>
+      <#assign class="red"></#if>
 
-            <li><p> <strong> Użytkownik: </strong>  ${user.id}
+            <li>
+
+                  <p> <strong> Użytkownik: </strong>  ${user.id}
                                                     ${user.name}
                                                     ${user.login}
                                                     ${user.age}
                                                     <#sep > , </#sep>
 
             </p></li>
-        </#items>
+                    </#items>
 </ul>
 </#list>
+
 <#include "footer.ftlh">
 </body>
 </html>

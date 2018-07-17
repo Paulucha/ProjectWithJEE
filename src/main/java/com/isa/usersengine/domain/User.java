@@ -1,12 +1,23 @@
 package com.isa.usersengine.domain;
 
+import java.net.URL;
+
 public class User {
     private Integer id;
     private String name;
     private String login;
     private String password;
     private Integer age;
-    Gender gender;
+    private Gender gender;
+    private URL image;
+
+    public URL getImage() {
+        return image;
+    }
+
+    public void setImage(URL image) {
+        this.image = image;
+    }
 
     public Integer getId() {
         return id;

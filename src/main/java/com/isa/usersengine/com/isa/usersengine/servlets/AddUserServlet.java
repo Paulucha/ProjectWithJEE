@@ -1,19 +1,27 @@
 package com.isa.usersengine.com.isa.usersengine.servlets;
 
+import com.isa.usersengine.com.isa.userengine.cdi.FileUploadProcessorBean;
+import com.isa.usersengine.com.isa.userengine.cdi.com.isa.usersengine.exceptions.UserImageNotFound;
 import com.isa.usersengine.dao.UsersRepositoryDao;
 import com.isa.usersengine.dao.UsersRepositoryDaoBean;
 import com.isa.usersengine.domain.User;
 
 import javax.ejb.EJB;
+import javax.inject.Inject;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.Part;
+import java.io.File;
 import java.io.IOException;
 
 @WebServlet("/add-user")
 public class AddUserServlet extends HttpServlet {
+
+    @Inject
+    FileUploadProcessorBean fileUploadProcessorBean;
 
     private UsersRepositoryDao usersRepositoryDao;
 
@@ -43,6 +51,16 @@ public class AddUserServlet extends HttpServlet {
         user.setLogin(loginParam);
         user.setPassword(passwordParam);
         user.setAge(Integer.parseInt(ageParam));
+
+        Part filePart = req.getPart("image");
+        File file = null;
+        try {
+            file = fileUploadProcessorBean.uploadImageFile(filePart);
+            user.setImage("/images") + file.getName();
+        } catch (UserImageNotFound userImageNotFound) {
+            userImageNotFound.printStackTrace();
+        }
+
 
         usersRepositoryDao.addUser(user);
     }

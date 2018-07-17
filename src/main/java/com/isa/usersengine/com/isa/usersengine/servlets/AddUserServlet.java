@@ -5,6 +5,9 @@ import com.isa.usersengine.com.isa.userengine.cdi.com.isa.usersengine.exceptions
 import com.isa.usersengine.dao.UsersRepositoryDao;
 import com.isa.usersengine.dao.UsersRepositoryDaoBean;
 import com.isa.usersengine.domain.User;
+import com.isa.usersengine.freemarker.FreemarkerConf;
+import freemarker.template.Template;
+import freemarker.template.TemplateException;
 
 import javax.ejb.EJB;
 import javax.inject.Inject;
@@ -16,12 +19,17 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.Part;
 import java.io.File;
 import java.io.IOException;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.logging.Level;
 
 @WebServlet("/add-user")
 public class AddUserServlet extends HttpServlet {
-
     @Inject
-    FileUploadProcessorBean fileUploadProcessorBean;
+    private FreemarkerConf templateProvider;
+    @Inject
+    private FileUploadProcessorBean fileUploadProcessorBean;
 
     private UsersRepositoryDao usersRepositoryDao;
 
@@ -29,6 +37,13 @@ public class AddUserServlet extends HttpServlet {
     public void init() throws ServletException {
         super.init();
         usersRepositoryDao = new UsersRepositoryDaoBean();
+    }
+
+    @Override
+    protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+
+
+
     }
 
     @Override
@@ -56,7 +71,7 @@ public class AddUserServlet extends HttpServlet {
         File file = null;
         try {
             file = fileUploadProcessorBean.uploadImageFile(filePart);
-            user.setImage("/images") + file.getName();
+            user.setImage("/images" + file.getName());
         } catch (UserImageNotFound userImageNotFound) {
             userImageNotFound.printStackTrace();
         }

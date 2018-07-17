@@ -7,28 +7,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0494fda2-99fa-4d33-b8bb-288f49f75b20" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/add-user.html" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/add-user.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fm-templates/footer.ftlh" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fm-templates/footer.ftlh" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fm-templates/users-list.ftlh" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fm-templates/users-list.ftlh" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/userengine/cdi/com/isa/usersengine/exceptions/UserImageNotFound.java" afterPath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/userengine/cdi/com/isa/usersengine/exceptions/UserImageNotFound.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/AddUserServlet.java" afterPath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/AddUserServlet.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/domain/User.java" afterPath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/domain/User.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/add-user.html" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/add-user.ftlh" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/isa/usersengine/com/isa/usersengine/servlets/AddUserServlet.class" afterPath="$PROJECT_DIR$/target/classes/com/isa/usersengine/com/isa/usersengine/servlets/AddUserServlet.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/isa/usersengine/com/isa/usersengine/servlets/FindUserByIdServlet.class" afterPath="$PROJECT_DIR$/target/classes/com/isa/usersengine/com/isa/usersengine/servlets/FindUserByIdServlet.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/isa/usersengine/com/isa/usersengine/servlets/UserListServlet.class" afterPath="$PROJECT_DIR$/target/classes/com/isa/usersengine/com/isa/usersengine/servlets/UserListServlet.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/isa/usersengine/com/isa/usersengine/servlets/WelcomeUserServlet.class" afterPath="$PROJECT_DIR$/target/classes/com/isa/usersengine/com/isa/usersengine/servlets/WelcomeUserServlet.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/isa/usersengine/repository/UsersRepository.class" afterPath="$PROJECT_DIR$/target/classes/com/isa/usersengine/repository/UsersRepository.class" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine.war" afterPath="$PROJECT_DIR$/target/users-engine.war" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/isa/usersengine/domain/User.class" afterPath="$PROJECT_DIR$/target/classes/com/isa/usersengine/domain/User.class" />
+      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/add-user.html" afterPath="" />
       <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/com/isa/usersengine/servlets/AddUserServlet.class" afterPath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/com/isa/usersengine/servlets/AddUserServlet.class" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/com/isa/usersengine/servlets/FindUserByIdServlet.class" afterPath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/com/isa/usersengine/servlets/FindUserByIdServlet.class" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/com/isa/usersengine/servlets/UserListServlet.class" afterPath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/com/isa/usersengine/servlets/UserListServlet.class" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/com/isa/usersengine/servlets/WelcomeUserServlet.class" afterPath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/com/isa/usersengine/servlets/WelcomeUserServlet.class" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/repository/UsersRepository.class" afterPath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/repository/UsersRepository.class" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/fm-templates/footer.ftlh" afterPath="$PROJECT_DIR$/target/users-engine/WEB-INF/fm-templates/footer.ftlh" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/fm-templates/users-list.ftlh" afterPath="$PROJECT_DIR$/target/users-engine/WEB-INF/fm-templates/users-list.ftlh" />
-      <change beforePath="$PROJECT_DIR$/users-engine.iml" afterPath="$PROJECT_DIR$/users-engine.iml" />
+      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/domain/User.class" afterPath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/domain/User.class" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,82 +31,47 @@
       <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/domain/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+            <state relative-caret-position="198">
+              <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="18" />
               <folding>
-                <element signature="e#258#259#0" expanded="true" />
-                <element signature="e#295#296#0" expanded="true" />
-                <element signature="e#323#324#0" expanded="true" />
-                <element signature="e#354#355#0" expanded="true" />
-                <element signature="e#381#382#0" expanded="true" />
-                <element signature="e#421#422#0" expanded="true" />
-                <element signature="e#453#454#0" expanded="true" />
-                <element signature="e#485#486#0" expanded="true" />
-                <element signature="e#513#514#0" expanded="true" />
-                <element signature="e#555#556#0" expanded="true" />
-                <element signature="e#589#590#0" expanded="true" />
-                <element signature="e#624#625#0" expanded="true" />
-                <element signature="e#655#656#0" expanded="true" />
-                <element signature="e#703#704#0" expanded="true" />
-                <element signature="e#743#744#0" expanded="true" />
-                <element signature="e#774#775#0" expanded="true" />
-                <element signature="e#800#801#0" expanded="true" />
-                <element signature="e#839#840#0" expanded="true" />
-                <element signature="e#869#870#0" expanded="true" />
-                <element signature="e#902#903#0" expanded="true" />
-                <element signature="e#931#932#0" expanded="true" />
-                <element signature="e#975#976#0" expanded="true" />
-                <element signature="e#1011#1012#0" expanded="true" />
+                <element signature="e#291#292#0" expanded="true" />
+                <element signature="e#319#320#0" expanded="true" />
+                <element signature="e#361#362#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#425#426#0" expanded="true" />
+                <element signature="e#450#451#0" expanded="true" />
+                <element signature="e#487#488#0" expanded="true" />
+                <element signature="e#515#516#0" expanded="true" />
+                <element signature="e#546#547#0" expanded="true" />
+                <element signature="e#573#574#0" expanded="true" />
+                <element signature="e#613#614#0" expanded="true" />
+                <element signature="e#645#646#0" expanded="true" />
+                <element signature="e#677#678#0" expanded="true" />
+                <element signature="e#705#706#0" expanded="true" />
+                <element signature="e#747#748#0" expanded="true" />
+                <element signature="e#781#782#0" expanded="true" />
+                <element signature="e#816#817#0" expanded="true" />
+                <element signature="e#847#848#0" expanded="true" />
+                <element signature="e#895#896#0" expanded="true" />
+                <element signature="e#935#936#0" expanded="true" />
+                <element signature="e#966#967#0" expanded="true" />
+                <element signature="e#992#993#0" expanded="true" />
+                <element signature="e#1031#1032#0" expanded="true" />
+                <element signature="e#1061#1062#0" expanded="true" />
+                <element signature="e#1094#1095#0" expanded="true" />
+                <element signature="e#1123#1124#0" expanded="true" />
+                <element signature="e#1167#1168#0" expanded="true" />
+                <element signature="e#1203#1204#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RandomUserCDIApplicationDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/userengine/cdi/RandomUserCDIApplicationDao.java">
+      <file leaf-file-name="AddUserServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/AddUserServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="51" lean-forward="false" selection-start-line="0" selection-start-column="51" selection-end-line="0" selection-end-column="51" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WelcomeUserServlet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/WelcomeUserServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="38" column="33" lean-forward="false" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserListServlet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/UserListServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="23" column="21" lean-forward="false" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="users-list.ftlh" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/fm-templates/users-list.ftlh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="27" column="41" lean-forward="false" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="add-user.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/add-user.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="41" lean-forward="false" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+            <state relative-caret-position="348">
+              <caret line="44" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -128,39 +81,71 @@
         <entry file="file://$PROJECT_DIR$/src/main/recourses/settings.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="27" lean-forward="true" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+              <caret line="0" column="48" lean-forward="false" selection-start-line="0" selection-start-column="48" selection-end-line="0" selection-end-column="48" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FileUploadProcessorBean.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/userengine/cdi/FileUploadProcessorBean.java">
+      <file leaf-file-name="HelloServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/HelloServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="23" column="1" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="23" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserListServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/UserListServlet.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
-              <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+              <caret line="37" column="97" lean-forward="true" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="97" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add-user.ftlh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/add-user.ftlh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SalaryIncrementFilter.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/filters/SalaryIncrementFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="30" column="5" lean-forward="false" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#697#698#0" expanded="true" />
+                <element signature="e#728#729#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="exception.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/userengine/cdi/com/isa/usersengine/exceptions/exception.java">
+      <file leaf-file-name="welcome-user.ftlh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/fm-templates/welcome-user.ftlh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="64" lean-forward="false" selection-start-line="0" selection-start-column="64" selection-end-line="0" selection-end-column="64" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RandomUserCDIApplicationDaoBean.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/userengine/cdi/RandomUserCDIApplicationDaoBean.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="23" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="306">
+              <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -215,7 +200,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/RandomUserServlet.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/isa/usersengine/domain/Gender.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/userengine/cdi/MaxPulseBean.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/AddUserServlet.java" />
         <option value="$PROJECT_DIR$/src/main/java/freemaker/FreemakerConf.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/isa/usersengine/freemaker/FreemakerConf.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/isa/usersengine/freemarker/FreemakerConf.java" />
@@ -224,9 +208,7 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/fm-templates/welcome-user.ftlh" />
         <option value="$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/WelcomeUserServlet.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/fm-templates/find-user-by-id.ftlh" />
-        <option value="$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/UserListServlet.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/styles/styles.css" />
-        <option value="$PROJECT_DIR$/src/main/java/com/isa/usersengine/domain/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/FindUserByIdServlet.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/fm-templates/footer.ftlh" />
@@ -234,7 +216,13 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/add-user.html" />
         <option value="$PROJECT_DIR$/src/main/recourses/settings.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/userengine/cdi/FileUploadProcessor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/userengine/cdi/com/isa/usersengine/exceptions/exception.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/userengine/cdi/com/isa/usersengine/exceptions/UserImageNotFound.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/userengine/cdi/FileUploadProcessorBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/isa/usersengine/domain/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/UserListServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/AddUserServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/filters/SalaryIncrementFilter.java" />
       </list>
     </option>
   </component>
@@ -346,7 +334,16 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="usersengine" type="462c0819:PsiDirectoryNode" />
               <item name="isa" type="462c0819:PsiDirectoryNode" />
-              <item name="cdi" type="462c0819:PsiDirectoryNode" />
+              <item name="filters" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectWithJEE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectWithJEE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="usersengine" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ProjectWithJEE" type="b2602c69:ProjectViewProjectNode" />
@@ -458,79 +455,6 @@
       <module name="" />
       <envs />
     </configuration>
-    <configuration name="WildFlyAutoDeploy" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="JBoss 13.0.0.Final" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
-      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
-      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
-      <deployment>
-        <artifact name="users-engine:war exploded">
-          <settings />
-        </artifact>
-      </deployment>
-      <server-settings>
-        <option name="SERVER" />
-        <option name="BINDING_SET_NAME" value="" />
-        <option name="DOMAIN" value="false" />
-        <option name="SERVER_GROUP" />
-        <option name="USERNAME" value="Paulucha" />
-        <option name="PASSWORD" value="przekop1313" />
-      </server-settings>
-      <predefined_log_file id="JBoss" enabled="true" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="38321" />
-      </RunnerSettings>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method>
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="users-engine:war exploded" />
-        </option>
-      </method>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -606,12 +530,12 @@
       <workItem from="1531595590319" duration="1114000" />
       <workItem from="1531596838306" duration="83000" />
       <workItem from="1531644667042" duration="648000" />
-      <workItem from="1531811329582" duration="7391000" />
+      <workItem from="1531811329582" duration="14279000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48712000" />
+    <option name="totallyTimeSpent" value="55600000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1421" y="-4" width="1865" height="1084" extended-state="6" />
@@ -633,15 +557,15 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20837696" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2957669" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2424409" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -662,26 +586,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/AddUserServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="46" column="31" lean-forward="false" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/AddUserServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/HelloServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
@@ -839,13 +748,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/HelloServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="23" column="1" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -883,24 +785,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/fm-templates/welcome-user.ftlh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/dao/UsersRepositoryDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/FindUserByIdServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -925,64 +813,8 @@
         <state relative-caret-position="18">
           <caret line="1" column="48" lean-forward="false" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
           <folding>
-            <element signature="e#16#22#0#HTML" expanded="true" />
+            <element signature="e#16#22#0#HTML" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/domain/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-          <folding>
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#381#382#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#485#486#0" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#589#590#0" expanded="true" />
-            <element signature="e#624#625#0" expanded="true" />
-            <element signature="e#655#656#0" expanded="true" />
-            <element signature="e#703#704#0" expanded="true" />
-            <element signature="e#743#744#0" expanded="true" />
-            <element signature="e#774#775#0" expanded="true" />
-            <element signature="e#800#801#0" expanded="true" />
-            <element signature="e#839#840#0" expanded="true" />
-            <element signature="e#869#870#0" expanded="true" />
-            <element signature="e#902#903#0" expanded="true" />
-            <element signature="e#931#932#0" expanded="true" />
-            <element signature="e#975#976#0" expanded="true" />
-            <element signature="e#1011#1012#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/userengine/cdi/RandomUserCDIApplicationDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="51" lean-forward="false" selection-start-line="0" selection-start-column="51" selection-end-line="0" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/UserListServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="23" column="21" lean-forward="false" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/WelcomeUserServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="38" column="33" lean-forward="false" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -990,6 +822,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/WelcomeUserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="38" column="33" lean-forward="false" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
           <folding />
         </state>
       </provider>
@@ -1002,6 +842,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/userengine/cdi/RandomUserCDIApplicationDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="51" lean-forward="false" selection-start-line="0" selection-start-column="51" selection-end-line="0" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/userengine/cdi/com/isa/usersengine/exceptions/UserImageNotFound.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="35" lean-forward="true" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/userengine/cdi/RandomUserCDIApplicationDaoBean.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -1010,26 +866,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/AddUserServlet.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/userengine/cdi/FileUploadProcessorBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="579">
-          <caret line="46" column="31" lean-forward="false" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
-          <folding />
+        <state relative-caret-position="882">
+          <caret line="49" column="8" lean-forward="false" selection-start-line="49" selection-start-column="8" selection-end-line="50" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/add-user.html">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/FindUserByIdServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="41" lean-forward="false" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/userengine/cdi/com/isa/usersengine/exceptions/exception.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="64" lean-forward="false" selection-start-line="0" selection-start-column="64" selection-end-line="0" selection-end-column="64" />
+        <state relative-caret-position="90">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -1037,17 +887,104 @@
     <entry file="file://$PROJECT_DIR$/src/main/recourses/settings.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="27" lean-forward="true" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <caret line="0" column="48" lean-forward="false" selection-start-line="0" selection-start-column="48" selection-end-line="0" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/userengine/cdi/FileUploadProcessorBean.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+            <element signature="e#705#706#0" expanded="true" />
+            <element signature="e#747#748#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#816#817#0" expanded="true" />
+            <element signature="e#847#848#0" expanded="true" />
+            <element signature="e#895#896#0" expanded="true" />
+            <element signature="e#935#936#0" expanded="true" />
+            <element signature="e#966#967#0" expanded="true" />
+            <element signature="e#992#993#0" expanded="true" />
+            <element signature="e#1031#1032#0" expanded="true" />
+            <element signature="e#1061#1062#0" expanded="true" />
+            <element signature="e#1094#1095#0" expanded="true" />
+            <element signature="e#1123#1124#0" expanded="true" />
+            <element signature="e#1167#1168#0" expanded="true" />
+            <element signature="e#1203#1204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/HelloServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="23" column="1" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="23" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/AddUserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="44" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/UserListServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <caret line="37" column="97" lean-forward="true" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="97" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/add-user.ftlh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/fm-templates/welcome-user.ftlh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/filters/SalaryIncrementFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="30" column="5" lean-forward="false" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+            <element signature="e#728#729#0" expanded="true" />
           </folding>
         </state>
       </provider>

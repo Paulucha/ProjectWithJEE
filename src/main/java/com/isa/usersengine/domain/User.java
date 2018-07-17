@@ -9,13 +9,13 @@ public class User {
     private String password;
     private Integer age;
     private Gender gender;
-    private URL image;
+    private String image;
 
-    public URL getImage() {
+    public String getImage() {
         return image;
     }
 
-    public void setImage(URL image) {
+    public void setImage(String image) {
         this.image = image;
     }
 

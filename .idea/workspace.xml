@@ -6,67 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0494fda2-99fa-4d33-b8bb-288f49f75b20" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/userengine/cdi/MaxPulseBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/userengine/cdi/RandomUserCDIApplicationDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/userengine/cdi/RandomUserCDIApplicationDaoBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/userengine/cdi/RandomUserCDIRequestDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/userengine/cdi/RandomUserCDIRequestDaoBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/userengine/cdi/RandomUserCDISessionDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/userengine/cdi/RandomUserCDISessionDaoBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/AddUserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/servlets/AddUserServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/FindUserByIdServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/servlets/FindUserByIdServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/servlets/HelloServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/RandomUserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/servlets/RandomUserServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/UserListServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/servlets/UserListServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/com/isa/usersengine/servlets/WelcomeUserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/servlets/WelcomeUserServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/dao/UsersRepositoryDaoBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/dao/UsersRepositoryDaoBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/domain/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/repository/UsersRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/repository/UsersRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/add-user.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/add-user.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fm-templates/find-user-by-id.ftlh" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fm-templates/find-user-by-id.ftlh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fm-templates/users-list.ftlh" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fm-templates/users-list.ftlh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fm-templates/welcome-user.ftlh" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fm-templates/welcome-user.ftlh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/styles/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/isa/usersengine/com/isa/userengine/cdi/MaxPulseBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/isa/usersengine/com/isa/userengine/cdi/RandomUserCDIApplicationDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/isa/usersengine/com/isa/userengine/cdi/RandomUserCDIApplicationDaoBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/isa/usersengine/com/isa/userengine/cdi/RandomUserCDIRequestDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/isa/usersengine/com/isa/userengine/cdi/RandomUserCDIRequestDaoBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/isa/usersengine/com/isa/userengine/cdi/RandomUserCDISessionDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/isa/usersengine/com/isa/userengine/cdi/RandomUserCDISessionDaoBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/isa/usersengine/com/isa/usersengine/servlets/AddUserServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/isa/usersengine/com/isa/usersengine/servlets/FindUserByIdServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/isa/usersengine/com/isa/usersengine/servlets/HelloServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/isa/usersengine/com/isa/usersengine/servlets/RandomUserServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/isa/usersengine/com/isa/usersengine/servlets/UserListServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/isa/usersengine/com/isa/usersengine/servlets/WelcomeUserServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/isa/usersengine/dao/UsersRepositoryDaoBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/isa/usersengine/dao/UsersRepositoryDaoBean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/isa/usersengine/domain/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/isa/usersengine/domain/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/isa/usersengine/repository/UsersRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/isa/usersengine/repository/UsersRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/add-user.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/com/isa/userengine/cdi/MaxPulseBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/com/isa/userengine/cdi/RandomUserCDIApplicationDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/com/isa/userengine/cdi/RandomUserCDIApplicationDaoBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/com/isa/userengine/cdi/RandomUserCDIRequestDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/com/isa/userengine/cdi/RandomUserCDIRequestDaoBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/com/isa/userengine/cdi/RandomUserCDISessionDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/com/isa/userengine/cdi/RandomUserCDISessionDaoBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/com/isa/usersengine/servlets/AddUserServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/com/isa/usersengine/servlets/FindUserByIdServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/com/isa/usersengine/servlets/HelloServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/com/isa/usersengine/servlets/RandomUserServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/com/isa/usersengine/servlets/UserListServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/com/isa/usersengine/servlets/WelcomeUserServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/dao/UsersRepositoryDaoBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/dao/UsersRepositoryDaoBean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/domain/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/domain/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/repository/UsersRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/repository/UsersRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/fm-templates/find-user-by-id.ftlh" beforeDir="false" afterPath="$PROJECT_DIR$/target/users-engine/WEB-INF/fm-templates/find-user-by-id.ftlh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/fm-templates/users-list.ftlh" beforeDir="false" afterPath="$PROJECT_DIR$/target/users-engine/WEB-INF/fm-templates/users-list.ftlh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/WEB-INF/fm-templates/welcome-user.ftlh" beforeDir="false" afterPath="$PROJECT_DIR$/target/users-engine/WEB-INF/fm-templates/welcome-user.ftlh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/users-engine/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/users-engine/styles/styles.css" afterDir="false" />
-    </list>
+    <list default="true" id="0494fda2-99fa-4d33-b8bb-288f49f75b20" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -523,12 +463,12 @@
       <workItem from="1531596838306" duration="83000" />
       <workItem from="1531644667042" duration="676000" />
       <workItem from="1531762316534" duration="446000" />
-      <workItem from="1532253676396" duration="5625000" />
+      <workItem from="1532253676396" duration="5821000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47420000" />
+    <option name="totallyTimeSpent" value="47616000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -547,7 +487,7 @@
       <window_info anchor="right" id="JSF" order="3" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.17133443" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.17133443" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.057660624" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
@@ -556,8 +496,8 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2092257" />
-      <window_info anchor="bottom" x="1444" y="380" width="1819" height="315" id="Terminal" order="7" weight="0.09813875" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.65562916" visible="true" weight="0.19213313" />
+      <window_info active="true" anchor="bottom" x="1444" y="380" width="1819" height="315" id="Terminal" order="7" visible="true" weight="0.4645799" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.65562916" visible="true" weight="0.19213313" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" sideWeight="0.3398693" side_tool="true" weight="0.17757009" />
       <window_info anchor="right" id="Theme Preview" order="3" />

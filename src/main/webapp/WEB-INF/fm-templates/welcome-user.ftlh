@@ -12,7 +12,7 @@
 <h1>
     Witaj uzytkowniku o imieniu ${name}
 </h1>
-
+<h2>Salary: ${salary!"Salary undefined"}</h2>
 
 </body>
 </html>

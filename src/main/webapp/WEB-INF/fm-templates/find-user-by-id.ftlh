@@ -8,18 +8,21 @@
     <title>Find User By ID</title>
 </head>
 <body>
-<#if errorMessage??>
-    <span style="color: red">${errorMessage}</span><br/>
-</#if>
-<h1>
-    <strong> ID użytkownika:</strong> ${user.id}<br/>
-    <strong> Imię:</strong> ${user.name}<br/>
-    <strong> Login: </strong>${user.login}<br/>
-    <strong> Wiek: </strong>${user.age}<br/>
-    <#--<strong> Płeć: </strong>${gender}-->
-    <#--<strong> Puls: </strong>${pulse}-->
 
-</h1>
+<#if errorMessage??>
+    <span style="color: #ff0000;">${errorMessage}</span><br/><br/>
+</#if>
+
+<#if user??>
+    <ul>
+        <li>ID: ${user.id}</li>
+        <li>Name: ${user.name}</li>
+        <li>Login: ${user.login}</li>
+        <li>Age: ${user.age}</li>
+        <li>Gender: ${user.gender}</li>
+        <li>Pulse: ${pulse}</li>
+    </ul>
+</#if>
 
 </body>
 </html>

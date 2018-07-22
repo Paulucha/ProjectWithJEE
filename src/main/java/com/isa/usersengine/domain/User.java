@@ -1,12 +1,13 @@
 package com.isa.usersengine.domain;
-
 public class User {
-    private Integer id;
-    private String name;
-    private String login;
-    private String password;
-    private Integer age;
+
+    Integer id;
+    String name;
+    String login;
+    String password;
+    Integer age;
     Gender gender;
+    String imageURL;
 
     public Integer getId() {
         return id;
@@ -55,6 +56,15 @@ public class User {
     public void setGender(Gender gender) {
         this.gender = gender;
     }
+
+    public String getImageURL() {
+        return imageURL;
+    }
+
+    public void setImageURL(String imageURL) {
+        this.imageURL = imageURL;
+    }
+
 
     @Override
     public String toString() {

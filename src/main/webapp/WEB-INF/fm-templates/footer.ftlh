@@ -1,1 +1,2 @@
-<div>Copyright &copy; ${.now?string.yyyy}</div>
+
+<div>Copyright &copy; ${.now?string.yyyy} </div>
